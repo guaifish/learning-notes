@@ -1,0 +1,6 @@
+[book]
+authors = ["guaifish"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Angular8 实战网易云音乐 学习笔记"
