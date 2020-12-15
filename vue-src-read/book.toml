@@ -1,0 +1,6 @@
+[book]
+authors = ["guaifish"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Vue 源码阅读"
